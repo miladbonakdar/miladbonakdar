@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hellloooo there 👋
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladbonakdar&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miladbonakdar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **miladbonakdar/miladbonakdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
