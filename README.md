@@ -1,4 +1,5 @@
 ### Hi there 👋
+I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.
 
 <!--
 **miladbonakdar/miladbonakdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
